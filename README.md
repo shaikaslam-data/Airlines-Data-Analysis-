@@ -38,7 +38,7 @@ Aircraft information
 
 Fare conditions (Economy, Business, Comfort)
 
-***Key Tables:***
+### Key Tables:
 
 Flights
 
@@ -166,6 +166,4 @@ A data-driven approach to occupancy and pricing optimization can significantly e
 
 
 
-***⭐ If you found this project useful**
 
-**Give it a ⭐ on GitHub and share your feedback!**
