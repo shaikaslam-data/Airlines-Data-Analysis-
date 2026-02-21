@@ -59,7 +59,7 @@ Jupyter Notebook
 Data Visualization
 
 ### 🔄 Project Workflow
-1. Data Extraction (SQL)
+***1. Data Extraction (SQL)***
 
 Retrieved structured data from relational database
 
@@ -67,7 +67,7 @@ Performed joins across multiple tables
 
 Aggregated ticket and flight-level data
 
-2. Data Cleaning & Processing (Python)
+***2. Data Cleaning & Processing (Python)***
 
 Handled missing values
 
@@ -75,7 +75,7 @@ Created derived metrics (occupancy rate, revenue per ticket)
 
 Grouped and transformed data for analysis
 
-3. Exploratory Data Analysis (EDA)
+***3. Exploratory Data Analysis (EDA)***
 
 Analyzed:
 
@@ -85,7 +85,7 @@ Revenue patterns
 
 Aircraft performance
 
-4. Feature Engineering
+***4. Feature Engineering***
 
 Calculated:
 
@@ -95,7 +95,7 @@ Average revenue per ticket
 
 Total revenue per aircraft
 
-5. Visualization
+***5. Visualization***
 
 Line charts for booking & revenue trends
 
@@ -164,17 +164,8 @@ Make informed pricing decisions
 
 A data-driven approach to occupancy and pricing optimization can significantly enhance profitability while maintaining customer satisfaction.
 
-📷 Project Structure
-├── Data Analysis Airlines.ipynb
-├── Business Problem.pdf
-├── Report.pdf
-├── SQL Queries
-└── README.md
-👨‍💻 Author
 
-Shaik Aslam
-Aspiring Data Analyst | SQL | Python | Power BI
 
-⭐ If you found this project useful
+***⭐ If you found this project useful**
 
-Give it a ⭐ on GitHub and share your feedback!
+**Give it a ⭐ on GitHub and share your feedback!**
