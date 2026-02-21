@@ -1,11 +1,12 @@
-✈️ SkyLift Analytics: Airline Revenue & Occupancy Optimization
-📌 Project Overview
+# ✈️ SkyLift Analytics: Airline Revenue & Occupancy Optimization
+
+### 📌 Project Overview
 
 SkyLift Analytics is a data-driven project focused on analyzing airline operations to improve occupancy rates, pricing strategies, and overall profitability.
 
 The aviation industry faces increasing pressure from rising fuel costs, stricter regulations, and higher operational expenses. This project leverages SQL and Python to uncover actionable insights that help airlines maximize revenue per seat while maintaining efficiency.
 
-🎯 Business Problem
+### 🎯 Business Problem
 
 The airline company is experiencing declining profitability due to:
 
@@ -15,7 +16,7 @@ Increasing flight taxes and environmental regulations
 
 High labor costs due to a tight job market
 
-🔍 Objective:
+### 🔍 Objective:
 
 Increase seat occupancy rate
 
@@ -25,7 +26,7 @@ Improve customer experience
 
 Identify low-performing flights and aircraft
 
-🗂️ Dataset Description
+### 🗂️ Dataset Description
 
 The dataset contains airline operational data including:
 
@@ -37,7 +38,7 @@ Aircraft information
 
 Fare conditions (Economy, Business, Comfort)
 
-Key Tables:
+***Key Tables:***
 
 Flights
 
@@ -47,7 +48,7 @@ Aircrafts
 
 Ticket Details
 
-🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 Python (Pandas, NumPy, Matplotlib)
 
@@ -57,7 +58,7 @@ Jupyter Notebook
 
 Data Visualization
 
-🔄 Project Workflow
+### 🔄 Project Workflow
 1. Data Extraction (SQL)
 
 Retrieved structured data from relational database
@@ -102,7 +103,7 @@ Bar charts for fare comparison
 
 Aircraft-wise performance analysis
 
-📊 Key Insights
+### 📊 Key Insights
 ✈️ Aircraft Performance
 
 Aircraft with >100 seats include:
@@ -117,7 +118,7 @@ CN1 aircraft generated lowest revenue
 
 Reason: Limited to economy class & lower pricing
 
-📈 Booking & Revenue Trends
+### 📈 Booking & Revenue Trends
 
 Ticket bookings increased steadily over time
 
@@ -125,7 +126,7 @@ Revenue closely follows booking trends
 
 Peak booking days significantly impact total revenue
 
-💺 Occupancy Analysis
+***💺 Occupancy Analysis***
 
 Higher occupancy directly increases profitability
 
@@ -133,7 +134,7 @@ Some aircraft operate below optimal capacity
 
 A 10% increase in occupancy rate can significantly boost revenue
 
-💰 Pricing Insights
+***💰 Pricing Insights***
 
 Business class fares are consistently higher than economy
 
@@ -141,7 +142,7 @@ Extremely low or high prices reduce demand
 
 Balanced pricing strategy is critical
 
-🚀 Business Recommendations
+### 🚀 Business Recommendations
 
 Adjust pricing dynamically based on demand and aircraft type
 
@@ -151,7 +152,7 @@ Optimize aircraft allocation for high-demand routes
 
 Maintain balance between affordability and service quality
 
-📌 Conclusion
+### 📌 Conclusion
 
 This project demonstrates how data analysis can help airlines:
 
